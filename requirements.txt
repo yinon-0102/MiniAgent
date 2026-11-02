@@ -1,0 +1,4 @@
+python-dotenv
+openai
+PyYAML
+rich>=13.7
